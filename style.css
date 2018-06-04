@@ -1,0 +1,38 @@
+.input{
+    color: red;
+}
+
+h1 {
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    background-color: gray;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.ul-container {
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    height: 200px;
+    justify-content: center;
+
+}
+
+.label-container {
+    display: flex;
+    margin: 50px 450px;
+    padding: 20px;
+    height: 150px;
+    width: 900px;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+}
